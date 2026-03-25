@@ -37,7 +37,7 @@ const JohnBenedict = {
 
 ### 💻 Languages
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
@@ -48,7 +48,7 @@ const JohnBenedict = {
 
 ### ⚡ Frameworks & Libraries
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
@@ -57,7 +57,7 @@ const JohnBenedict = {
 
 ### 🗄️ Databases
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/HeidiSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
@@ -65,7 +65,7 @@ const JohnBenedict = {
 
 ### 🎨 Design & Creative Tools
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
   <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
@@ -74,7 +74,7 @@ const JohnBenedict = {
 
 ### 🛠️ Tools & Platforms
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
@@ -160,6 +160,6 @@ const JohnBenedict = {
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:6EE7F7&height=120&section=footer" width="100%"/>
 
-*⭐ If you find my work interesting, consider giving a star to my repos!*
+*⭐ If you find my work interesting, consider giving a star to my repos. Thank you!*
 
 </div>
