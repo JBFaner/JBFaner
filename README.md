@@ -234,5 +234,5 @@ const JohnBenedict = {
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:6EE7F7&height=120&section=footer" width="100%"/>
 
 *⭐ If you find my work interesting, consider giving a star to my repos. Thank you!*
-
+Co-authored-by: yourusername <your@email.com>
 </div>
