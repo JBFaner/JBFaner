@@ -88,25 +88,98 @@ const JohnBenedict = {
 
 ## 🚀 Featured Projects
 
-<div align="center">
+---
 
-<a href="https://github.com/JBFaner/Kyusify---Student-Enterprise-Platform">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JBFaner&repo=Kyusify---Student-Enterprise-Platform&theme=tokyonight&hide_border=true&border_radius=10" />
-</a>
-<a href="https://github.com/JBFaner/Disaster-Training-Simulation">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JBFaner&repo=Disaster-Training-Simulation&theme=tokyonight&hide_border=true&border_radius=10" />
-</a>
+### 🛍️ Kyusify — Student Enterprise Platform
 
-<br/><br/>
+> A centralized marketplace platform built for **Quezon City University (QCU)** student enterprises — transforming student-run businesses into accessible online stores where they can showcase products, manage listings, and interact with customers in real time.
 
-<a href="https://github.com/JBFaner/Alertara-Centralized-Login">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JBFaner&repo=Alertara-Centralized-Login&theme=tokyonight&hide_border=true&border_radius=10" />
-</a>
-<a href="https://github.com/JBFaner/jb_webpage3">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JBFaner&repo=jb_webpage3&theme=tokyonight&hide_border=true&border_radius=10" />
-</a>
+**✨ Key Features**
+- 🏪 **Multi-store marketplace** — Student enterprises register and manage their own storefronts
+- 🛒 **Product discovery & browsing** — Categorized listings with search and filter support
+- 💬 **In-store live chat** — Real-time customer-to-seller messaging per storefront
+- 🛡️ **Admin portal** — Product moderation, enterprise management, user control & content management
+- ⭐ **Store ratings** — Customer feedback and rating system per enterprise
+- 📦 **Order & inventory tracking** — Stock management and product listing controls
 
-</div>
+**🔧 Tech Stack**
+
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Blade](https://img.shields.io/badge/Blade-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+[![View Repo](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JBFaner/Kyusify---Student-Enterprise-Platform)
+
+| Landing Page | Discover / Shop | Admin Portal |
+|:---:|:---:|:---:|
+| ![Kyusify Landing](screenshots/kyusify1.jpg) | ![Kyusify Shop](screenshots/kyusify2.jpg) | ![Kyusify Admin](screenshots/kyusify3.jpg) |
+
+---
+
+### 🚨 Disaster Training Simulation — LGU Web App
+
+> An LGU (Local Government Unit) web application built for **disaster preparedness training and simulation management**. It enables LGUs to plan, execute, and evaluate disaster preparedness drills with real participants, from training module creation to certification issuance.
+
+**✨ Key Features**
+- 📚 **Training Module Management** — Create and publish disaster preparedness lessons (Fire, Flood, Earthquake, Rescue)
+- 🗓️ **Simulation Event Planning** — Schedule and manage scenario-based drills and exercises
+- 📋 **Participant Registration & Attendance** — Track attendees per drill with sign-in management
+- 📊 **Evaluation & Scoring System** — Score participants and generate after-action drill reports
+- 🏅 **Certification Issuance** — Issue digital certificates to qualified participants
+- 🗂️ **Resource & Equipment Inventory** — Manage disaster response resources per barangay
+- 🔒 **Role-based access control** — LGU Admin, Barangay staff, and participant roles
+
+**🔧 Tech Stack**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+[![View Repo](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JBFaner/Disaster-Training-Simulation)
+
+| Public Landing Page | Admin — Training Modules |
+|:---:|:---:|
+| ![LGU Landing](screenshots/LGU1.png) | ![LGU Admin](screenshots/LGU2.png) |
+
+---
+
+### 🏷️ Honor — POS & Inventory System *(Private Repo)*
+
+> A modern, enterprise-grade **Point of Sale and Inventory Management System** built for Honor, a multi-branch retail business. Features a full sales workflow, real-time inventory tracking, multi-store management with an interactive Philippines store map, and advanced reporting — all in a sleek dark-mode UI.
+
+**✨ Key Features**
+- 🗺️ **Interactive Philippines Store Map** — Super Admin view with clickable store pins per location (amCharts 5)
+- 🔐 **Permission-based route access** — Granular role & permission control via Spatie
+- 🛒 **POS Sales Workflow** — Full checkout including serial/unit validation, sale, refund, and void
+- 📅 **Shift-based Reporting** — X-Report and Z-Report per cashier shift with cash movement logs
+- 📦 **Full Inventory Suite** — Stock Ledger, Receiving Orders, Transfer In/Out, Physical Count, Stock Adjustments
+- 📊 **Analytics & Reports** — Sales analytics, agent ranking, store ranking, product masterlist & serial reports
+- 🔑 **2FA / OTP Authentication** — Secure login with two-factor support
+- 💳 **PayMongo Integration** — Online payment gateway integration
+
+**🔧 Tech Stack**
+
+![React](https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel_12-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Inertia.js](https://img.shields.io/badge/Inertia.js-9553E9?style=flat-square&logo=inertia&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![amCharts](https://img.shields.io/badge/amCharts_5-FF6600?style=flat-square&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Sanctum](https://img.shields.io/badge/Laravel_Sanctum-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![PayMongo](https://img.shields.io/badge/PayMongo-0ABAB5?style=flat-square&logoColor=white)
+
+> 🔒 *This is a private repository — screenshots are shared for portfolio purposes.*
+
+| Store Dashboard | Super Admin + Philippines Map |
+|:---:|:---:|
+| ![Honor Dashboard](screenshots/honor1.jpg) | ![Honor Super Admin](screenshots/honor2.jpg) |
 
 ---
 
