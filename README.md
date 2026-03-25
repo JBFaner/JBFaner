@@ -37,7 +37,7 @@ const JohnBenedict = {
 
 ### 💻 Languages
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
@@ -234,5 +234,5 @@ const JohnBenedict = {
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:6EE7F7&height=120&section=footer" width="100%"/>
 
 *⭐ If you find my work interesting, consider giving a star to my repos. Thank you!*
-Co-authored-by: yourusername <your@email.com>
+
 </div>
