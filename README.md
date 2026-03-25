@@ -114,7 +114,7 @@ const JohnBenedict = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=JBFaner&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&count_private=true&include_all_commits=true" height="180em"/>
+<img src="https://github-readme-stats.vercel.app/api?username=JBFaner&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" height="180em"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JBFaner&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=8" height="180em"/>
 
